@@ -252,3 +252,10 @@ resistance is Acinetobacter spp.'s 8 percentage-point rise.
 - Time series antibiotic coverage was limited to one representative antibiotic
   per pathogen (selected for clinical relevance), not full antibiotic coverage
   across all years.
+  
+**Data source and attribution:** 
+All data used in this analysis was obtained
+from the WHO Global Antimicrobial Resistance and Use Surveillance System
+(GLASS) dashboard (https://worldhealthorg.shinyapps.io/glass-dashboard/),
+published by the World Health Organization. This is an independent analysis
+and is not affiliated with or endorsed by WHO.
